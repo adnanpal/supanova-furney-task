@@ -562,7 +562,7 @@ The frontend should successfully retrieve:
 
 from the backend.
 
-Scope
+Approximately: [ADD YOUR ACTUAL TIME]
 
 The implementation intentionally focuses on the core feed-health workflow rather than building a complete ingestion management platform.
 
